@@ -9,6 +9,6 @@ The data collected is present in the files: flight.csv, airline.csv, and aiport.
 You are hired as a big data consultant to provide important insights.
 Your task is to write MapReduce jobs and provide insights on:
 
-1. The number of flights that get canceled in a month, every year
+1. The number of flights that get canceled in a month, every year [Code](./cancelledflights.pig)
 2. The airline names and the number of times their flights were canceled and diverted
 3. The number of times flights were delayed for each airline
